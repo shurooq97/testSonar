@@ -29,5 +29,6 @@ includeantruntime="false">
                 <sonar:sonar/>
                 
                 </target>
-            <target name="all" depends="compile,sonar"/>
+            <target name="all" depends="compile,sonar">
+    </target>
 </project>
